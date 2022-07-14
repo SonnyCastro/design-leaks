@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>Home to the next generation of designers</h1>
 
         <p className={styles.description}>
-        We help designers break into web3. If you're a designer that's curious about the web3 but not sure where to start, this is the place for you. 
+        We help designers break into web3. If you&apos;re a designer that&apos;s curious about the web3 but not sure where to start, this is the place for you. 
         </p>
 
         <div className={styles.ctaButtons}>
@@ -36,7 +36,7 @@ export default function Home() {
           </div>
           <div>
             <p id={styles.subTitle}>
-              Once you enroll we'll get you in a channel where you'll 
+              Once you enroll we&apos;ll get you in a channel where you&apos;ll 
               get to share progress with a cohort of awesome designers.
             </p>
           </div>
