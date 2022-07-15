@@ -53,12 +53,12 @@ export default function Home() {
           </div>
         </div>
 
-        <div className={styles.ctaSection}>
-          <div className={styles.test2}>
+        <div className={styles.test2}>
             <div className={styles.bgshape2 + " " + styles.bgprimary2 + " " + styles.bgblur2}></div>
-          </div>
-          <h2 id={styles.infoTitle}>Ready to design?</h2>
-          <p id={styles.subTitle} style={{textAlign:"center"}}>Choose a project. Start designing Instantly at no cost.</p>
+        </div>
+        <div className={styles.ctaSection}>
+          <h2 id={styles.infoTitle}>Ready to <i>design</i>?</h2>
+          <p id={styles.subTitle} style={{textAlign:"center"}}>Sign up and be one of the first designers to join us!</p>
           <Link href="https://discord.gg/dg3kwRGG">
             <a target="_blank" rel="noopener noreferrer" id={styles.joinDiscordBtn} style={{height:"64.8px"}}>
               <span id={styles.startProjectBtnText}>Get Access →</span>
