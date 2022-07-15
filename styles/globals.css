@@ -1,9 +1,30 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('../public/Inter/static/Inter-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter Bold";
+  src: url('../public/Inter/static/Inter-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter Semi Bold";
+  src: url('../public/Inter/static/Inter-SemiBold.ttf');
+  /* font-weight:; */
+  font-style: normal;
+}
+
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 a {
