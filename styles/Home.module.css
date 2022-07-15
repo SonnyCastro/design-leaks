@@ -81,6 +81,7 @@
   font-size: 20px;
   line-height: 24px;
   text-align: center;
+  color: black;
 }
 
 #joinDiscordBtn{
@@ -172,7 +173,7 @@
   width: 95%;
   margin: 0 auto;
   height: 100%;
-  border-radius: 99px;
+  border-radius: 9999px;
   overflow: hidden;
 }
 
@@ -180,7 +181,7 @@
   width: 95%;
   margin: 0 auto;
   height: 100%;
-  border-radius: 99px;
+  border-radius: 9999px;
   overflow: hidden;
 }
 
