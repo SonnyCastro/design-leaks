@@ -61,7 +61,7 @@ export default function Home() {
           <p id={styles.subTitle} style={{textAlign:"center"}}>Sign up and be one of the first designers to join us!</p>
           <Link href="https://discord.gg/dg3kwRGG">
             <a target="_blank" rel="noopener noreferrer" id={styles.joinDiscordBtn} style={{height:"64.8px"}}>
-              <span id={styles.startProjectBtnText}>Get Access →</span>
+              <span id={styles.joinSlackBtnText}>Get Access →</span>
             </a>
           </Link>
         </div>
